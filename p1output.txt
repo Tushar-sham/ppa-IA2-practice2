@@ -1,1 +1,8 @@
 
+gcc -g p1original.c
+~/ppa-IA2-practice2-2$ ./a.out
+Enter length of base of triangle
+44
+Enter lenght of height of triangle
+88
+area of triangle is: 1936.00
