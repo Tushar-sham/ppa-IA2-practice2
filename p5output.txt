@@ -1,1 +1,6 @@
 
+~/ppa-IA2-practice2-2$ gcc -g p5original.c
+~/ppa-IA2-practice2-2$ ./a.out
+Enter two integers: 12
+16
+G.C.D of 12 and 16 is 4 
